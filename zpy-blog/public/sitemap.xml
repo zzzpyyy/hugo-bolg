@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://zzzpyyy.github.io/blog/</loc>
+    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zzzpyyy.github.io/hello-world/</loc>
+    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zzzpyyy.github.io/</loc>
+    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zzzpyyy.github.io/blog/markdown/</loc>
+    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zzzpyyy.github.io/blog/syntax/</loc>
+    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zzzpyyy.github.io/test/</loc>
+    <lastmod>2024-06-11T23:18:04+08:00</lastmod>
+  </url><url>
+    <loc>https://zzzpyyy.github.io/hello-wolrd/</loc>
+    <lastmod>2024-06-11T23:08:17+08:00</lastmod>
+  </url><url>
+    <loc>https://zzzpyyy.github.io/markdown-syntax-guide/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zzzpyyy.github.io/bear/</loc>
+  </url><url>
+    <loc>https://zzzpyyy.github.io/hugo/</loc>
+  </url>
+</urlset>
