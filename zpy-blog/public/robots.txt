@@ -1,2 +1,0 @@
-User-Agent: *
-Sitemap: https://zzzpyyy.github.io/sitemap.xml
